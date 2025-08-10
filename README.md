@@ -38,8 +38,6 @@ Incluye desde scripts simples de introducción hasta pequeños proyectos de cál
 | problema7.php           | Ejercicio de problema en PHP #7.                            | PHP conocimientos básicos |
 | subsiguiente.php        | Página de ejemplo para enlace “Subsiguiente”.               | PHP conocimientos básicos |
 
-> **Nota:** Se corrigió `paginasusesiva.php` → `paginasucesiva.php` (ortografía de “sucesiva”). Mantén los nombres de archivo reales del repo en sincronía con esta tabla.
-
 ---
 
 ## 🛠 Requisitos
